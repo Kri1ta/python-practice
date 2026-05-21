@@ -1,0 +1,6 @@
+apple
+banana
+kiwi
+orange
+elephant
+cat
